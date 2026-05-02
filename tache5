@@ -1,0 +1,20 @@
+Connexion des écrans filaires
+Plateforme : Figma (mode Prototype)
+
+Reliez les écrans comme suit (pour les deux flux desktop et mobile) :
+
+Accueil → clic sur une carte produit → Fiche produit
+
+Fiche produit → clic sur “Voir le profil de l’artisan” → Profil artisan
+
+Profil artisan → clic sur un produit dans sa galerie → Fiche produit
+
+Fiche produit → clic sur “Ajouter au panier” → Panier (et ajout via action “Set variable” pour le nombre d’articles ? Pour du filaire, simple lien)
+
+Panier → clic sur “Continuer mes achats” → retour Accueil
+
+Panier → clic sur “Passer commande” → (vous pouvez créer un 5e écran “Confirmation” ou simplement annoter)
+
+Sur chaque lien, ajoutez l’interaction de déclenchement “On click” avec un fondu (ou smart animate si vous voulez).
+
+Lien Figma avec prototype.
