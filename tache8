@@ -1,0 +1,28 @@
+Maquettes haute-fidélité
+Reprenez les 4 écrans et appliquez le guide de style. Utilisez du contenu réel (textes, photos).
+Par exemple :
+
+Accueil :
+
+Bannière avec photo réelle d’un artisan travaillant le bois, texte “L’authenticité artisanale, livrée chez vous.”
+
+Cartes produits avec images libres de droits (Unsplash : poterie, bijoux, etc.), noms réels (“Vase en grès tourné”, “Collier en argent martelé”), prix.
+
+Fiche produit :
+
+Galerie avec 3 photos, description détaillée, sélecteur de taille, bouton “Ajouter au panier” primaire, lien vers l’artisan.
+
+Section “Ce que disent nos clients” avec avatars et notes.
+
+Profil artisan :
+
+Portrait de l’artisan, texte personnel, galerie de son atelier (photos), processus de fabrication en étapes (1. Tournage, 2. Séchage, 3. Émaillage, 4. Cuisson) avec icônes.
+
+Panier :
+
+Liste réaliste d’articles, calcul des frais de port (gratuit à partir de 50€), code promo déjà appliqué, boutons de paiement (Apple Pay et CB).
+
+Utilisez l’Auto Layout pour tous les conteneurs afin que les écrans soient responsifs.
+Annotez les interactions : hover sur bouton, micro-animations, etc.
+
+Lien Figma avec accès ouvert.
