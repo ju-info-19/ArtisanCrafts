@@ -1,0 +1,45 @@
+Parcours utilisateur et flux de tâches
+Plateforme : FigJam / Miro
+Deux diagrammes à produire :
+
+1. Parcours utilisateur (User flow) – Achat d’un produit artisanal (end-to-end)
+Start (ovale) : Arrivée sur la page d’accueil
+
+Action (rectangle) : Parcourir les catégories / utiliser la recherche
+
+Décision (losange) : Produit trouvé ?
+
+Non → Retour à l’exploration
+
+Oui → Voir la fiche produit (rectangle)
+
+Action : Lire la description, voir les photos, consulter le profil de l’artisan (rectangle)
+
+Décision : Ajouter au panier ?
+
+Non → Continuer le shopping (rectangle retour explore)
+
+Oui → Panier (rectangle)
+
+Action : Valider le panier, choisir livraison, paiement (rectangle)
+
+End (ovale) : Confirmation de commande
+
+2. Flux de tâche (Task flow) – Rechercher un produit spécifique
+Start : L’utilisateur appuie sur l’icône de recherche
+
+Rectangle : Saisir un mot-clé (ex. “vase en céramique”)
+
+Décision : Résultats affichés ?
+
+Non → Afficher message “Aucun résultat, essayez une autre orthographe” (rectangle)
+
+Oui → Affichage liste de produits (rectangle)
+
+Action : Filtrer par prix / matière (rectangle)
+
+End : Consultation d’une fiche produit
+
+Annotations sur les deux diagrammes : utilisez des étiquettes (notes) pour expliquer les étapes clés, par exemple “L’utilisateur peut trier les résultats par pertinence ou par prix”.
+
+Soumettez le lien FigJam/Miro avec accès ouvert.
