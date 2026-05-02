@@ -1,0 +1,40 @@
+Guide de style et bibliothèque de composants
+Créez une page “Style Guide” dans Figma avec les éléments suivants :
+
+Couleurs (noms et codes hex)
+Primaire : #4A6B56 (vert forêt) – boutons, titres
+
+Secondaire : #D4A373 (ocre/miel) – accents, icônes
+
+Neutre : #F5F2EB (fond clair), #333333 (texte), #FFFFFF (fond carte)
+
+Typographie (famille : Inter, ou une police que vous choisissez)
+H1 : 32px, Bold, titre de page
+
+H2 : 24px, Semibold, titres de section
+
+Body : 16px, Regular
+
+Caption : 12px, Regular, pour prix et étiquettes
+
+Espacements et rayons
+Spacing tokens : xs=4px, s=8px, m=16px, l=24px, xl=32px, xxl=48px
+
+Border radius : boutons=8px, cartes=12px, images=8px
+
+Iconographie
+Utilisez un set d’icônes cohérent (exemple : Feather Icons ou Material Icons, en contour).
+
+Icônes : recherche, panier, utilisateur, cœur (favoris), partage, localisation.
+
+Composants réutilisables (montrez les variantes)
+Bouton primaire : fond primaire, texte blanc, états (default, hover, active, disabled)
+
+Bouton secondaire : fond transparent, bordure secondaire, texte secondaire
+
+Carte produit : image, titre, prix, bouton favori (avec variantes hover)
+
+Champ de saisie : états (rempli, focus, erreur)
+
+Assemblez le tout sur une page Figma, avec des cadres clairement étiquetés.
+Exportez le lien de partage.
