@@ -1,0 +1,54 @@
+Écrans filaires (Wireframes)
+Plateforme : Figma (grille de 12 colonnes pour desktop, 4 colonnes pour mobile)
+
+Vous devez créer 4 écrans pour desktop et 4 pour mobile, soit 8 frames.
+
+Détail des écrans (contenu commun à mobile et desktop) :
+
+1. Accueil / Découverte de produits
+En-tête : Logo “ArtisanCrafts”, barre de recherche, icône panier, connexion.
+
+Bannière : Image d’un atelier d’artisan avec texte “Découvrez des pièces uniques faites main”.
+
+Grille de produits : 3 colonnes (desktop) / 1 colonne (mobile) – cartes produit avec image, nom, prix, note.
+
+Pied de page : Liens vers À propos, CGV, Contact.
+
+2. Fiche produit
+Galerie photos (image principale + miniatures).
+
+Nom du produit, prix, description.
+
+Sélecteur de variante (couleur, taille) si applicable.
+
+Bouton “Ajouter au panier”.
+
+Lien “Voir le profil de l’artisan”.
+
+Section avis clients.
+
+3. Profil artisan et processus
+Photo de l’artisan, nom, localisation.
+
+Texte de présentation (histoire, philosophie).
+
+Galerie du processus de fabrication (étapes en images avec légendes).
+
+Bouton “Voir tous les produits de cet artisan”.
+
+4. Panier et paiement
+Liste des articles ajoutés (image, nom, quantité, prix).
+
+Sous-total, frais de livraison, total.
+
+Champ code promo.
+
+Bouton “Passer commande” menant à la page de paiement (non détaillée en wireframe mais annotée).
+
+Contraintes :
+
+Utiliser une grille (layout grid) pour desktop (12 colonnes, largeur 1440px) et mobile (375px, 4 colonnes).
+
+Maintenir les mêmes textes et images filaires d’une version à l’autre.
+
+Lien Figma avec les 8 frames et accès ouvert.
