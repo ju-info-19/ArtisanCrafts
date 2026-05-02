@@ -1,0 +1,19 @@
+Interactions avec composants et variantes
+Créez d’abord une bibliothèque de composants :
+
+Bouton “Ajouter au panier”
+Variantes : Default (fond primaire, texte blanc), Hover (fond foncé), Active (échelle légèrement réduite), Disabled (grisé).
+
+Transition : Smart animate (durée 200ms, ease in out).
+
+Cartes produit
+Variantes : Default (avec ombre légère), Hover (ombre plus prononcée et bordure accent), Sélectionnée (bordure pleine).
+
+Champ de recherche
+Variantes : Empty, Filled, Active (bordure focus).
+
+Appliquez ces composants sur les wireframes des écrans Accueil et Fiche produit. Ajoutez des micro-interactions : par exemple, au survol d’une carte produit, celle-ci passe en Hover, et au clic, elle navigue vers la fiche produit avec un fondu enchaîné.
+
+Décrivez dans un petit texte (annotation) les transitions et la logique d’animation que vous avez utilisées.
+
+Lien Figma avec prototypes interactifs desktop et mobile.
