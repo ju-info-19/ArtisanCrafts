@@ -1,0 +1,39 @@
+Matrice de priorisation
+Plateforme : FigJam / Miro
+Créez un graphique 2x2 avec :
+
+Axe X : Effort de développement (Faible → Élevé)
+
+Axe Y : Valeur utilisateur / Impact (Faible → Élevé)
+
+Placez les fonctionnalités suivantes sous forme de post-its :
+
+Recherche avancée avec filtres (Effort moyen, Impact élevé) → priorité haute
+
+Profil artisan avec vidéo et processus (Effort élevé, Impact élevé) → priorité haute
+
+Paiement en 1 clic (Apple Pay, PayPal) (Effort faible, Impact élevé) → priorité haute
+
+Chat en direct avec l’artisan (Effort élevé, Impact moyen) → priorité moyenne
+
+Recommandations personnalisées IA (Effort élevé, Impact faible) → priorité basse
+
+Programme de fidélité (Effort moyen, Impact faible) → priorité basse
+
+Mode sombre (Effort faible, Impact faible) → priorité basse
+
+Partage social des produits (Effort faible, Impact élevé) → priorité haute
+
+Section “Key Feature Insights” (sous la matrice) : résumez 5 décisions :
+
+Décision 1 : Intégrer Apple Pay et PayPal dès le MVP (effort minimal, fort impact sur la conversion).
+
+Décision 2 : Proposer le partage sur les réseaux sociaux (bouton de partage) pour accroître la visibilité.
+
+Décision 3 : Reporter le chat en direct à la V2 (coût élevé, usage incertain).
+
+Décision 4 : Développer les filtres de recherche avancés avant la fiche artisan détaillée (car priorité utilisateur).
+
+Décision 5 : Ne pas investir dans les recommandations IA avant d’avoir un catalogue suffisant.
+
+Lien FigJam/Miro ouvert.
